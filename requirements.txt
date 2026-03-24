@@ -1,0 +1,14 @@
+
+## Key Insights
+- Top 10 products generate 60% of total revenue.
+- UK is the highest revenue region.
+- Sales peak during November–December (holiday season).
+- Targeted promotions to top customers can increase repeat sales.
+
+## 🖼 Dashboard
+![Dashboard](images/dashboard_screenshots.png)
+
+## How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/DineoKabini/Ecommerce-sales-analysis.git
