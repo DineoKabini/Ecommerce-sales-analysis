@@ -14,5 +14,3 @@ This project analyzes e-commerce sales data to uncover trends and insights. It d
 - Which regions generate the most revenue?
 - What is the monthly sales trend?
 - Who are the most valuable customers?
-
-## Project Structure
